@@ -1,18 +1,6 @@
 ---
 title: Упражнения
-next: first-page
+next: docs/folder/
 ---
 
 This is a demo of the theme's documentation layout.
-
-## Hello, World!
-
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
